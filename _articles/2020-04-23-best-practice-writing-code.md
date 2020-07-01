@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "👍 Best practice writing code"
-date:   2020-04-23 10:56:44 +0200
+date:   2020-06-23 10:56:44 +0200
 categories: articles
 ---
 While following the web minor, I've been interested in how to write clean and easy to read code but also the structure itself. I'll be writing not only about what I've read but also about my findings.
