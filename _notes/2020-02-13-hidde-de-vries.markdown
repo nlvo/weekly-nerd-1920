@@ -17,6 +17,6 @@ In order to create responsive website,you used to need some hacks in order to ge
 
 I definitly could relate a lot when he was talking about what we used to do and how much better it got. And it's quite interesting how fast it changed.
 
-<img src="/img/notes/hidde-de-vries-p1.jpg">
-<img src="/img/notes/hidde-de-vries-p2.jpg">
+<img src="img/notes/hidde-de-vries-p1.jpg">
+<img src="img/notes/hidde-de-vries-p2.jpg">
 Here are some of the sketchnotes I made from the lecture.
