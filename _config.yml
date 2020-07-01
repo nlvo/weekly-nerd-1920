@@ -1,0 +1,11 @@
+title: Weekly Nerd
+description: Author Lien
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-cayman
+
+collections:
+  articles:
+    output: true
+  notes:
+    output: true

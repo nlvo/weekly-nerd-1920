@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Funda"
+date:   2020-02-26 16:00:00 +0200
+categories: notes
+---
+
+# Funda
+<img src="/img/funda-presentation.jpg">
+<img src="/img/funda-group.jpg">
+<i>Photo's came from the slackgroup<i>
+
+While at Funda I didn't make any notes to be honest, to busy being creative and working with others. It was a lot of fun to see and feel for yourself what it is like to work on a single feature. For a company like Funda which has one product you'll be working on small features and not a whole product.
+
+So at the beginning we got a presentation and after that we got seperated into multiple groups. Each group had a specific functionality which they would work on for a few hours. Ours was the filter functionality, which is pretty small if you look at it. There were just 2 checkboxes so we thought to ourself, we can do more. And so our scrummaster got us an extra functionality, which was essentially the product card. And so we redesigned it (with tho other clasmates one of them is Marjolein I believe). After that time basically flew by and it was time to present what we made, jeej.
+
+<img src="/img/funda-card.png" width="25%">
+
+Overal I got a little taste of what it would be like working on one product, rather multiple different products. To be honest I would like there to be some variation in what I do as a designer rather than working on one product all the time. Which is why I prefer to work for an agency for the time being. Lastly I do want to say that I did enjoy my time at Funda, they were very welcoming and overall the atmosphere was great. And thanks Funda for the workshop! Too bad it didn't last as long..
