@@ -369,7 +369,7 @@ a:hover { text-decoration: underline; }
 
 .project-name, .project-tagline, .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 { color: #0B5987; }
 
-.page-header { background-color: #FFE28F; background-image: url("/img/header.png"); background-size: cover; }
+.page-header { background-color: #FFE28F; background-image: url("/../img/header.png"); background-size: cover; }
 
 .btn { border-color: #0B5987; color: #0B5987; }
 

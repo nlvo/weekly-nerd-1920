@@ -12,13 +12,13 @@ In which he showed us what you can create with CSS only. He also showed us a few
 
 The one that stood out to me the most was Spongebob, can you believe it? At first I thought the used vectors, but it turns out it's only CSS. But to be honest they are all really awesome!
 
-<img src="img/notes/spongebob.png">
+<img src="../img/notes/spongebob.png">
 
 [Made by Joey](https://www.sinds1971.nl/spelenmetcss/2019-feb/joey/index.html)
 
 After this he explained a bit about micro interactions. He talked about the 4 components which would make micro interactions, based on Dan Saffers book ‘Microinteractions: Designing with Details’.
 
-<img src="img/notes/sanne-t-hooft.jpg">
+<img src="../img/notes/sanne-t-hooft.jpg">
 Sketchnotes (dutch)
 
 ## conclusion

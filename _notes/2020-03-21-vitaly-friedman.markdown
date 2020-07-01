@@ -14,15 +14,15 @@ Vitaly talked about how everything on the web looked the same. Which if you look
 
 One of the examples he showed were cars with no rims shown. And lo and behold it looks almost identical.
 
-<img src="img/notes/cars.png" alt="Image of a lot of cars">
+<img src="../img/notes/cars.png" alt="Image of a lot of cars">
 
 The same goes for brand logos and navigations etc.
-<img src="img/notes/logos.png" alt="Image of multiple brand logos">
+<img src="../img/notes/logos.png" alt="Image of multiple brand logos">
 *To be honest I never realized this until Vitaly pointed it out, because I actually love flat design, minimalisme etc.* 
 
 *So this was definitely an eye opener, because lately I've been struggling with creating a portfolio which would be a representation of me. And when searching for inspiration I realized everything looked odly similar. After understanding the underlying problem, it will be easier to give my portfolio another go.*
 
-<img src="img/notes/vitaly-friedman.jpg">
+<img src="../img/notes/vitaly-friedman.jpg">
 
 [presentation](https://www.dropbox.com/s/p8mi1rl2eqc423p/personality-ams-2020.pdf?dl=0)
 
@@ -37,7 +37,7 @@ After this he talked about ownership when working in a big company. When working
 
 *This will probably something I'll definitly keep in mind, when either searching for a job or even an internship!*
 
-<img src="img/notes/vitaly-salary.jpg">
+<img src="../img/notes/vitaly-salary.jpg">
 These were sketchnotes I made from the lecture.
 
 ## Conclusion
